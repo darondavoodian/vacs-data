@@ -180,7 +180,7 @@
       "id": "OPIS_APP",
       "prefixes": ["OPIS"],
       "frequency": "121.650",
-      "facility_type": "APP",
+      "facility_type":"APP",
       "profile_id": "OPIS",
       "default_call_sources": ["OPIS_APP"]
     },
@@ -220,6 +220,7 @@
       "prefixes": ["OPKC"],
       "frequency": "125.500",
       "facility_type": "APP",
+      "profile_id": "OPKC",
       "default_call_sources": ["OPKC_APP"]
     },
     {
@@ -227,6 +228,7 @@
       "prefixes": ["OPKC"],
       "frequency": "118.300",
       "facility_type": "TWR",
+      "profile_id": "OPKC",
       "default_call_sources": ["OPKC_TWR"]
     },
     {
@@ -234,6 +236,7 @@
       "prefixes": ["OPKC"],
       "frequency": "121.600",
       "facility_type": "GND",
+      "profile_id": "OPKC",
       "default_call_sources": ["OPKC_GND"]
     },
     {
@@ -241,6 +244,7 @@
       "prefixes": ["OPKD"],
       "frequency": "119.650",
       "facility_type": "TWR",
+      "profile_id": "OPKC",
       "default_call_sources": ["OPKD_TWR"]
     },
     {
@@ -255,6 +259,7 @@
       "prefixes": ["OPLA"],
       "frequency": "121.300",
       "facility_type": "APP",
+      "profile_id": "OPLA",
       "default_call_sources": ["OPLA_APP"]
     },
     {
@@ -262,6 +267,7 @@
       "prefixes": ["OPLA"],
       "frequency": "118.100",
       "facility_type": "TWR",
+      "profile_id": "OPLA",
       "default_call_sources": ["OPLA_TWR"]
     },
     {
@@ -269,6 +275,7 @@
       "prefixes": ["OPLA"],
       "frequency": "118.400",
       "facility_type": "GND",
+      "profile_id": "OPKC",
       "default_call_sources": ["OPLA_GND"]
     },
     {
