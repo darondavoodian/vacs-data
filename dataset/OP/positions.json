@@ -173,6 +173,7 @@
       "prefixes": ["OPIS"],
       "frequency": "119.650",
       "facility_type": "DEP",
+      "profile_id": "OPIS",
       "default_call_sources": ["OPIS_DEP"]
     },
     {
@@ -180,6 +181,7 @@
       "prefixes": ["OPIS"],
       "frequency": "121.650",
       "facility_type": "APP",
+      "profile_id": "OPIS",
       "default_call_sources": ["OPIS_APP"]
     },
     {
@@ -187,6 +189,7 @@
       "prefixes": ["OPIS"],
       "frequency": "122.150",
       "facility_type": "TWR",
+      "profile_id": "OPIS",
       "default_call_sources": ["OPIS_TWR"]
     },
     {
@@ -194,6 +197,7 @@
       "prefixes": ["OPIS"],
       "frequency": "130.600",
       "facility_type": "GND",
+      "profile_id": "OPIS",
       "default_call_sources": ["OPIS_GND"]
     },
     {
@@ -201,6 +205,7 @@
       "prefixes": ["OPIS"],
       "frequency": "118.550",
       "facility_type": "DEL",
+      "profile_id": "OPIS",
       "default_call_sources": ["OPIS_DEL"]
     },
     {
