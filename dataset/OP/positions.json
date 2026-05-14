@@ -180,7 +180,7 @@
       "id": "OPIS_APP",
       "prefixes": ["OPIS"],
       "frequency": "121.650",
-      "facility_type":"APP",
+      "facility_type": "APP",
       "profile_id": "OPIS",
       "default_call_sources": ["OPIS_APP"]
     },
